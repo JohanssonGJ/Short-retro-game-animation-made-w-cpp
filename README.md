@@ -17,6 +17,7 @@ A tiny retro scene made in C++. The sequence plays through with motion, power-up
 
 _All helper sources are bundled—no external dependencies._
 
+![Retro game screenshot](./RetroGame.png)
 ## How it works (high level)
 - Uses a standard **update → draw → present** frame loop.  
 - Sprites move based on simple velocities and timing.  
